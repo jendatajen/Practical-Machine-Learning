@@ -20,7 +20,7 @@ library(rattle)
 library(randomForest)
 library(RColorBrewer)
 ```
-###Getting Data
+### Data loading  
 
 ```{r}
 trainUrl <-"https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"
