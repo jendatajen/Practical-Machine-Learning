@@ -39,7 +39,7 @@ if (!file.exists(testFile)) {
 rm(trainUrl)
 rm(testUrl)
 ```
-###Reading Data
+### Data Reading
 read the two csv files into two data frames.
 
 ```{r}
